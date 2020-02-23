@@ -1,4 +1,4 @@
-# Graphe-d-une-image-et-binarisation
+# Graphe d'une image et binarisation
 Projet C++ du cours Algorithmique, Programmation et Complexité
 ## 1. Description du projet
 C'est un projet appliquant l'algo Ford-fulkerson pour la segmentation d'image.
