@@ -9,10 +9,6 @@ C'est un projet appliquant l'algo Ford-fulkerson pour la segmentation d'image.
 ## 3. Test
 - Télécharge les fichiers de type **pgm** 
 - Lancer du projet: exécuter le fichier Make
-  + 
-  
-  
- - Exemple: ![alt text] (https://www.dropbox.com/s/00qcp3dsahmgwfy/coins_input.pgm?dl=0)
 
 
 
